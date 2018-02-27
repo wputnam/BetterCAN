@@ -56,7 +56,7 @@ If you find any issues not already listed, please submit an issue request.
 ## Authors
 
 * **William Putnam** - *Protocol design and coding* - [wputnam](https://github.com/wputnam)
-* **Shunsuke Sakurai** - *Awareness algorithm design and coding* - [xxxxx](https://github.com/xxxxx)
+* **Shunsuke Sakurai** - *Awareness algorithm design and coding* - [sak39](https://github.com/sak39)
 
 ## License
 
