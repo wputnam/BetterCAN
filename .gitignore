@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+MCUin
+MCUout
+tcbm
+ib
+ob
+aware
+stack
