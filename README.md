@@ -1,5 +1,7 @@
 # BetterCAN
 
+[![Documentation Status](https://readthedocs.org/projects/bettercan/badge/?version=latest)](http://bettercan.readthedocs.io/en/latest/?badge=latest)
+
 A project of the University of Aizu Computer Networks Laboratory.
 
 BetterCAN is a lightweight, TCP and TLS-like transport and session-layer based implementation on the controller area network (CAN) bus. It was developed in order to provide a more secure protocol on the CAN bus that makes it harder if not impossible for hackers to hijack an automotive network.
