@@ -7,3 +7,5 @@ Contact
 =====================================
 
 For any questions or discrepancies, please contact William Putnam at williamput3@aol.com.
+
+If you find any issues with the code, please create an issue in the `Github project <https://github.com/wputnam/BetterCAN>`_.
