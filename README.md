@@ -14,7 +14,7 @@ Here's a quick rundown of the main features:
   - Application and session data are encrypted using AES-256 block ciphers
   - Prevents attacks such as fuzzing, message injection, and man-in-the-middle (MitM) from modifying network connections
 
-To learn more about the details, read the [master's thesis](MT.pdf) for the project.
+To learn more about the details, please consult the [project documentation](http://bettercan.readthedocs.io/en/latest/).
 
 ## Getting Started
 

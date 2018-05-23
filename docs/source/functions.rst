@@ -45,6 +45,7 @@ Other files
 * *CANmult.sh* - establishes two virtual CAN bus network interfaces for MitM testing
 * *keyGen.cpp* - creates a symmetric 256-bit AES to be pre-shared among all devices on the network
 * *inputbuffer.cpp* - the data-link layer interface that receives messages on the CAN bus that match its assigned ID, and runs parallel to the TCB module
+* *Makefile* - builds the source code and generates the executables required to run BetterCAN
 * *MCUin.cpp* - part of the application layer for the MCU, where messages are simply read in after being parsed
 * *MCUout.cpp* - part of the application layer for the MCU, where the transport and session layer parsers are established
 * *outputbuffer.cpp* - the data-link layer interface that sends messages on the CAN bus to a specific destination ID, which is only ran when there is a message to send
